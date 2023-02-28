@@ -17,7 +17,7 @@ object DataSource {
                     "[name & position]"
         ),
         Email(
-            "Darla smith",
+            "Carla smith",
             "Recommendation",
             "[Name of employee] has been working at [company] for [X] years, and played a vital role in [achievement].\n" +
                     "\n" +
@@ -29,7 +29,7 @@ object DataSource {
                     "[name & position]"
         ),
         Email(
-            "Darla smith",
+            "Ben smith",
             "Recommendation",
             "[Name of employee] has been working at [company] for [X] years, and played a vital role in [achievement].\n" +
                     "\n" +
@@ -41,7 +41,7 @@ object DataSource {
                     "[name & position]"
         ),
         Email(
-            "Darla smith",
+            "Sam smith",
             "Recommendation",
             "[Name of employee] has been working at [company] for [X] years, and played a vital role in [achievement].\n" +
                     "\n" +
@@ -53,7 +53,7 @@ object DataSource {
                     "[name & position]"
         ),
         Email(
-            "Darla smith",
+            "Google smith",
             "Recommendation",
             "[Name of employee] has been working at [company] for [X] years, and played a vital role in [achievement].\n" +
                     "\n" +
@@ -65,7 +65,7 @@ object DataSource {
                     "[name & position]"
         ),
         Email(
-            "Darla smith",
+            "Mac smith",
             "Recommendation",
             "[Name of employee] has been working at [company] for [X] years, and played a vital role in [achievement].\n" +
                     "\n" +
@@ -77,7 +77,7 @@ object DataSource {
                     "[name & position]"
         ),
         Email(
-            "Darla smith",
+            "Zebra smith",
             "Recommendation",
             "[Name of employee] has been working at [company] for [X] years, and played a vital role in [achievement].\n" +
                     "\n" +
@@ -89,7 +89,7 @@ object DataSource {
                     "[name & position]"
         ),
         Email(
-            "Darla smith",
+            "Love smith",
             "Recommendation",
             "[Name of employee] has been working at [company] for [X] years, and played a vital role in [achievement].\n" +
                     "\n" +
